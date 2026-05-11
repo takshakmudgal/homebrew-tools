@@ -9,8 +9,8 @@ class Snag < Formula
   head "https://github.com/takshakmudgal/snag.git", branch: "main"
 
   depends_on "rust" => :build
-  depends_on "yt-dlp"
   depends_on "ffmpeg"
+  depends_on "yt-dlp"
 
   def install
     system "cargo", "install", *std_cargo_args
