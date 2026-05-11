@@ -3,7 +3,7 @@ class Ejector < Formula
   homepage "https://github.com/takshakmudgal/ejector"
   url "https://github.com/takshakmudgal/ejector.git",
       tag:      "v0.1.0",
-      revision: "HEAD"
+      revision: "3265944827d7791ad593b4c7cf8b794169f6c8c9"
   version "0.1.0"
   license "MIT"
   head "https://github.com/takshakmudgal/ejector.git", branch: "main"

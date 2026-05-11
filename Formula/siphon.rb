@@ -3,7 +3,7 @@ class Siphon < Formula
   homepage "https://github.com/takshakmudgal/siphon"
   url "https://github.com/takshakmudgal/siphon.git",
       tag:      "v0.1.0",
-      revision: "HEAD"
+      revision: "0843f47f147365bfdd4e285db267643644629da2"
   version "0.1.0"
   license "MIT"
   head "https://github.com/takshakmudgal/siphon.git", branch: "main"

@@ -3,7 +3,7 @@ class WaTui < Formula
   homepage "https://github.com/takshakmudgal/wa-tui"
   url "https://github.com/takshakmudgal/wa-tui.git",
       tag:      "v0.1.0",
-      revision: "HEAD"
+      revision: "4cea6e6f0978b9c756f2a3e9275ea849aa190834"
   version "0.1.0"
   license "MIT"
   head "https://github.com/takshakmudgal/wa-tui.git", branch: "main"

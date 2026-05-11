@@ -3,7 +3,7 @@ class Snag < Formula
   homepage "https://github.com/takshakmudgal/snag"
   url "https://github.com/takshakmudgal/snag.git",
       tag:      "v0.1.0",
-      revision: "HEAD"
+      revision: "f7590c0c485822fefefffd7a61e2adf74593104e"
   version "0.1.0"
   license "MIT"
   head "https://github.com/takshakmudgal/snag.git", branch: "main"
