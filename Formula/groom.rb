@@ -8,8 +8,8 @@ class Groom < Formula
   license "MIT"
   head "https://github.com/takshakmudgal/groom.git", branch: "main"
 
-  depends_on :macos
   depends_on "rust" => :build
+  depends_on :macos
 
   def install
     system "cargo", "install", *std_cargo_args
