@@ -2,9 +2,9 @@ class Ejector < Formula
   desc "TUI that shows what's holding your external drive — and lets you fix it"
   homepage "https://github.com/takshakmudgal/ejector"
   url "https://github.com/takshakmudgal/ejector.git",
-      tag:      "v0.1.0",
-      revision: "3265944827d7791ad593b4c7cf8b794169f6c8c9"
-  version "0.1.0"
+      tag:      "v0.1.1",
+      revision: "1056f29ae56184180cdc945d32f07c3a7f43a415"
+  version "0.1.1"
   license "MIT"
   head "https://github.com/takshakmudgal/ejector.git", branch: "main"
 
