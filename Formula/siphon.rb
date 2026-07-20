@@ -2,9 +2,9 @@ class Siphon < Formula
   desc "TUI for taking database dumps across local + containerised DBs"
   homepage "https://github.com/takshakmudgal/siphon"
   url "https://github.com/takshakmudgal/siphon.git",
-      tag:      "v0.4.0",
-      revision: "de82edc12c54d8b85f34d6a5532def217c46657e"
-  version "0.4.0"
+      tag:      "v0.4.1",
+      revision: "ae50ae20c287e6eb3af956d0ffa4543d67f213ef"
+  version "0.4.1"
   license "MIT"
   head "https://github.com/takshakmudgal/siphon.git", branch: "main"
 
